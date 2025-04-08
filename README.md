@@ -51,4 +51,4 @@ npm install
 npm start
 ```
 ## 📸 Screenshots
-(./ScreenShot/Screenshot 2025-04-09 003526.png)
+![Screenshot](MAJOR_PROJECT/ScreenShot/Screenshot%202025-04-09%20003526.png)
