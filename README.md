@@ -29,7 +29,7 @@ This project is designed to assist farmers in making informed decisions about fe
 | **Frontend** | React.js + Tailwind CSS            |
 | **Backend**  | Node.js + Express                  |
 | **Database** | MongoDB                            |
-| **APIs**     | Open-Meteo (Weather), Hugging Face / OpenAI (Chatbot) |
+| **APIs**     | Open-Meteo (Weather), Hugging Face(ChatBot) |
 | **Other**    | dotenv, Axios, MongoClient (Native driver) |
 
 ---
