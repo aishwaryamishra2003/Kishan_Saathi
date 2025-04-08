@@ -51,6 +51,4 @@ npm install
 npm start
 ```
 ## 📸 Screenshots
-
-### 🧾 Farmer Input Page
-![Farmer Input Page](./screenshots/farmer-input.png)
+(./ScreenShot/Screenshot 2025-04-09 003526.png)
